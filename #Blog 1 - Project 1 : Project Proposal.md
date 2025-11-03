@@ -108,8 +108,8 @@ With the ParkMate system, an automated ladies’ parking access control is imple
 
 [4] Mora, R., Allard, J. M., & Zurob, C. (2014). Where is my car? Examining wayfinding behavior in a parking lot. Fractal: Revista de Psicologia, 26(2), 267–278. https://doi.org/10.1590/1984-0292/1310
 
-[5] Motorist.co.th. (2024). What is Lady Parking and where can you find it? | Articles | Motorist Thailand. Motorist.co.th. https://www.motorist.co.th/en/article/3580/what-is-lady-parking-and-where-can-you-find-it 
+[5] Motorist.co.th. (2024, October). What is Lady Parking and where can you find it? Motorist Thailand. https://www.motorist.co.th/en/article/3580/what-is-lady-parking-and-where-can-you-find-it 
 
-[6] LiveView Technologies (2025) How Parking Lot Security Impacts Customer Satisfaction and Retention | LVT. (2025). Lvt.com. https://www.lvt.com/blog/how-parking-lot-security-impacts-customer-satisfaction-and-retention 
+[6] LiveView Technologies (2025) How Parking Lot Security Impacts Customer Satisfaction and Retention.  LVT. (2025). https://www.lvt.com/blog/how-parking-lot-security-impacts-customer-satisfaction-and-retention 
  
-[7] Boo Su-Lyn. (2016, February 4). The female-only car park problem. Malay Mail ; Malay Mail. https://www.malaymail.com/news/opinion/2016/02/05/the-female-only-car-park-problem/1054879#google_vignette 
+[7] Boo Su-Lyn. (2016, February 4). The female-only car park problem. Malay Mail. https://www.malaymail.com/news/opinion/2016/02/05/the-female-only-car-park-problem/1054879#google_vignette 
