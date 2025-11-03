@@ -35,6 +35,8 @@ My hobby are dancing and playing video game. Nice to meet you! 🆒
 
 <br clear="left"/>
 
+#### 👩‍💻 Member 2: Chan Siew Ching
+
 #### 👩‍💻 Member 4: Ung Yii Jia
 
 <img src="https://github.com/user-attachments/assets/f2d00cc7-ec23-42a6-8be8-96327c03dce7" width="120" align="left" style="margin-right: 15px; border-radius: 10px;" />
